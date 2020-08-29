@@ -28,6 +28,7 @@ The obtained information from **Data Extraction and  Tokenizing** is passed thro
 ### Named Entity Recognition(NER)
 Done using spaCy to extract figures and mathematically significant data.
 ## Expected Output
+![alt text](https://github.com/Bhavya1705/EpidemicPredictor/blob/master/Screenshot%20from%202020-08-29%2021-54-53-1.png)
 ## Libraries Used
 - **datetime** - For date
 - **requests** - request URL
