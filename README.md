@@ -12,7 +12,7 @@ Infinitum Circa
 To have asystem that parses through news articles on the web and extracts necessary information regarding possible epidemics and suspected outbreaks and makes them acessible in a user friendly format
 ## Expected Input
 Random URLs of sites from Google Search for particular Keywords.
-![alt text](Screenshot from 2020-08-29 21-54-38-1.png)
+![alt text](https://github.com/Bhavya1705/EpidemicPredictor/blob/master/Screenshot%20from%202020-08-29%2021-54-38-1.png)
 ## Tasks
 - Web Parsing
 - Data Extraction
