@@ -1,5 +1,5 @@
 # EpidemicPredictor
-A Python base Epidemic Detector
+A Python based Epidemic Detector
 ## Inspiration
 The Corona Epidemic of 2019-20 is the largest epidemic of the 21st Century. With loss of human and monetary interest, it becomes necessary to have a system capable of predicting possible epidemics.
 ### Team
@@ -11,7 +11,8 @@ Infinitum Circa
 ## Goal 
 To have asystem that parses through news articles on the web and extracts necessary information regarding possible epidemics and suspected outbreaks and makes them acessible in a user friendly format
 ## Expected Input
-
+Random URLs of sites from Google Search for particular Keywords.
+![alt text](Screenshot from 2020-08-29 21-54-38-1.png)
 ## Tasks
 - Web Parsing
 - Data Extraction
