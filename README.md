@@ -3,6 +3,7 @@ A Python based Epidemic Detector
 ## Inspiration
 The Corona Epidemic of 2019-20 is the largest epidemic of the 21st Century. With loss of human and monetary interest, it becomes necessary to have a system capable of predicting possible epidemics.
 ### Team
+![alt text](https://github.com/Bhavya1705/EpidemicPredictor/blob/master/Infinitum%20Circa.png)
 Infinitum Circa
 - Bhavya Bhardwaj
 - Syed Ishtiyaq Ahmed
