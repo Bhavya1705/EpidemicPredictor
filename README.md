@@ -42,4 +42,4 @@ Done using spaCy to extract figures and mathematically significant data.
 - **geopandas** - World Map details and plotting
 - **foliunm** - Interactive Map
 
-                   ![alt text](https://github.com/Bhavya1705/EpidemicPredictor/blob/master/Infinitum%20Circa.png)
+   ![alt text](https://github.com/Bhavya1705/EpidemicPredictor/blob/master/Infinitum%20Circa.png)
