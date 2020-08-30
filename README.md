@@ -34,7 +34,7 @@ Done using spaCy to extract figures and mathematically significant data.
 - **datetime** - For date
 - **requests** - request URL
 - **bs4** - Parsing and HTML extraction and Cleanup
-- **geograpy** - Country Details and Name Identificatiom 
+- **geograpy** - Country Details and Name Identification
 - **nltk** - Natural Language Toolkit
 - **openpyxl** - For writing to excel
 - **pycountry** - Country details
