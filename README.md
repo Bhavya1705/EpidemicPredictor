@@ -1,3 +1,4 @@
+Final Code: EpidemicPredictor
 # EpidemicPredictor
 A Python based Epidemic Detector
 ## Inspiration
