@@ -41,6 +41,6 @@ Done using spaCy to extract figures and mathematically significant data.
 - **spaCy** - NER 
 - **googlesearch** - Google Search Operation
 - **geopandas** - World Map details and plotting
-- **foliunm** - Interactive Map
+- **folium** - Interactive Map
 
    ![alt text](https://github.com/Bhavya1705/EpidemicPredictor/blob/master/Infinitum%20Circa.png)
