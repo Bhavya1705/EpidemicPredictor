@@ -11,7 +11,7 @@ The Corona Epidemic of 2019-20 is the largest epidemic of the 21st Century. With
 - Jaiharie J
 - Sorabh Dadhich
 ## Goal 
-To have asystem that parses through news articles on the web and extracts necessary information regarding possible epidemics and suspected outbreaks and makes them acessible in a user friendly format
+To have asystem that parses through news articles on the web and extracts necessary information regarding possible epidemics and suspected outbreaks and makes them acessible in a user friendly format.
 ## Expected Input
 Random URLs of sites from Google Search for particular Keywords.
 ![alt text](https://github.com/Bhavya1705/EpidemicPredictor/blob/master/Screenshot%20from%202020-08-29%2021-54-38-1.png)
@@ -24,7 +24,7 @@ Random URLs of sites from Google Search for particular Keywords.
 ### Web Parsing
 Done using Beautiful Soup and Requests library in Python. The HTML is extracted and cleaned.
 ### Data Extraction and  Tokenizing
-The **UNIQUE** aspect of this programmme is its ability to **PARSE RANDOM WEBSITES** (Whose HTML format and tags are unknown), as such the cleaned text from parsing is passed through nlp models and summarizers
+The **UNIQUE** aspect of this programmme is its ability to **PARSE RANDOM WEBSITES** (Whose HTML format and tags are unknown), as such the cleaned text from parsing is passed through nlp models and summarizers.
 ### Data Cleanup
 The obtained information from **Data Extraction and  Tokenizing** is passed through a condition set to extract relevant information.
 ### Named Entity Recognition(NER)
